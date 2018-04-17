@@ -1,4 +1,5 @@
 # PulltweetsBUAP
 This is a project to do a research about traffic accidents on roadways in Mexico.
 
-1) A First approximation on pulling tweets that have string parameters that are needed.
+1) We had already register the app on twitter.
+2) We are working on the program code to only select and pre-process more simply the data of CAPUFE's twitter
